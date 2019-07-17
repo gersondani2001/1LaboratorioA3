@@ -1,0 +1,39 @@
+/*codigo de css3 atributos y estilos*/
+.footerCont{
+	background: black;
+	padding: 3%;
+}
+.fooh1{
+	color: skyblue;
+	font-size: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.styfo{
+	color: white;
+}
+.tyico{
+	font-size: 30px;
+	color: white;
+
+}
+.styfooo{
+	font-size: 15px;
+	color: white;
+}
+.copyright{
+	background: #7d7d7d;
+}
+.styfolite{
+	font-size: 15px;
+}
+.copy{
+	color: white;
+	font-family: arial;
+	padding: 3%;
+}
+.imgdeguate{
+	padding-top:1%;
+	width: 150px;
+	height: 100px;
+}
